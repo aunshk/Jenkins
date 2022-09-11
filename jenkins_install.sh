@@ -1,7 +1,7 @@
 # Jenkins installation in RHEL8
 #!/bin/bash
-set -e
-set -x
+#set -e
+#set -x
 
 inst_jenkis()
     {
